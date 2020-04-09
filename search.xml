@@ -6,20 +6,9 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>happy3</title>
-    <url>/2020/04/09/happy3/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>happy2</title>
     <url>/2020/04/09/happy2/</url>
     <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>hello hexo</title>
-    <url>/2020/04/09/hello-hexo/</url>
-    <content><![CDATA[<p><img src="hello-hexo/1586418531984.png" alt="1586418531984"></p>
-]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -37,6 +26,17 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>happy3</title>
+    <url>/2020/04/09/happy3/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>hello hexo</title>
+    <url>/2020/04/09/hello-hexo/</url>
+    <content><![CDATA[<p><img src="/2020/04/09/hello-hexo/1586418531984.png" alt="1586418531984"></p>
 ]]></content>
   </entry>
 </search>
