@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://h0ryit.com/"/>
-  <updated>2020-04-09T16:31:53.288Z</updated>
+  <updated>2020-04-18T07:19:07.308Z</updated>
   <id>http://h0ryit.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello</title>
-    <link href="http://h0ryit.com/2020/04/10/hello/"/>
-    <id>http://h0ryit.com/2020/04/10/hello/</id>
-    <published>2020-04-09T16:29:50.000Z</published>
-    <updated>2020-04-09T16:31:53.288Z</updated>
+    <title>web安全总结</title>
+    <link href="http://h0ryit.com/2020/04/17/web%E5%AE%89%E5%85%A8%E6%80%BB%E7%BB%93/"/>
+    <id>http://h0ryit.com/2020/04/17/web%E5%AE%89%E5%85%A8%E6%80%BB%E7%BB%93/</id>
+    <published>2020-04-17T06:45:34.000Z</published>
+    <updated>2020-04-18T07:19:07.308Z</updated>
     
     <summary type="html">
     
@@ -29,17 +29,17 @@
       
         
         
-          &lt;h1 id=&quot;hello&quot;&gt;&lt;a href=&quot;#hello&quot; class=&quot;headerlink&quot;
+          &lt;h1 id=&quot;owasp-top10&quot;&gt;&lt;a href=&quot;#owasp-top10&quot; class=&quot;headerlink&quot; title=&quot;owasp-top10&quot;&gt;&lt;/a&gt;owasp-top10&lt;/h1&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot;
         
       
     
     </summary>
     
     
-      <category term="default" scheme="http://h0ryit.com/categories/default/"/>
+      <category term="web安全" scheme="http://h0ryit.com/categories/web%E5%AE%89%E5%85%A8/"/>
     
     
-      <category term="hello" scheme="http://h0ryit.com/tags/hello/"/>
+      <category term="web安全" scheme="http://h0ryit.com/tags/web%E5%AE%89%E5%85%A8/"/>
     
   </entry>
   
