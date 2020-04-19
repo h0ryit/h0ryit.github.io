@@ -924,7 +924,9 @@
         <category>数据结构与算法</category>
       </categories>
       <tags>
-        <tag>数据结构,算法,python</tag>
+        <tag>python</tag>
+        <tag>数据结构</tag>
+        <tag>算法</tag>
       </tags>
   </entry>
   <entry>
@@ -1503,9 +1505,11 @@
 ]]></content>
       <categories>
         <category>python</category>
+        <category>爬虫</category>
       </categories>
       <tags>
-        <tag>python,爬虫</tag>
+        <tag>python</tag>
+        <tag>爬虫</tag>
       </tags>
   </entry>
   <entry>
